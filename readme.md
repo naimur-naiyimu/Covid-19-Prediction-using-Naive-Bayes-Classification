@@ -23,7 +23,7 @@ $ python main.py
 
 <b><u>Accuracy gained</u></b> - 93.00%
 
-See the <a href="https://drive.google.com/file/d/1lrXIq0xdN63wasZIavZjfDupCoOicRtn/view?usp=share_link">Demo Video</a>
+See the <a href="https://drive.google.com">Demo Video</a>
 
 
 Dataset <a href="https://www.kaggle.com/datasets/jayaprakashpondy/coviddataset">Here</a>
